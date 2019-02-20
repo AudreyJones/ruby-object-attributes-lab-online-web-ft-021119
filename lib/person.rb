@@ -13,7 +13,7 @@ class Person
   end
 
   def method_name
-
+    @job
   end
 
 end
