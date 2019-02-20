@@ -8,7 +8,12 @@ class Person
     @name
   end
 
+  def job=(job)
+    @job = job
+  end
 
-
+  def method_name
+    
+  end
 
 end
